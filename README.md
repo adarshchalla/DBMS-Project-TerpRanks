@@ -75,29 +75,29 @@ Major Steps involved :
 1) ER diagram was created after brainstorming several insights and requirements. shorturl.at/bdlG5
 2) Identify different sources to consolidate the data( usnews.com, economist.com, bloomberg.com, topuniversities.com)
 3) Find ways to **Extract** the data in to the csv file , **Transform** the data and **Load**(DDL) the data into MS SQL Server.
-4) Perform DML operations to answer business transactions and Visualized using Tableau Dashboard
-5) Visualize the insights to give the presentation and conclusion
+4) Perform DML operations to answer business transactions
+5) Visualize the insights using Tableau Dashboards for the presentation
 6) Provide overall insights and suggestions particularly to Robert H. Smith school of Business - University of Maryland - College Park .
 
 Inferences : 
--> Class Size is negatively correlated with the Rankings , as the class size reduces, the rank of the B-School improves.
--> The higher #networking events a B-School conducts , the higher the rank the school has.
--> Percentage of Faculty with PhD plays a pivotal role in the ranking of a B- School.
--> The more the geographical diversity a classroom has, the higher the rank the school has.
--> Students ratings of program content is very much in line with the school rankings
--> The availability of Facilities in a B-School is not a significant factor or not correlated with the rank of B- Schools
--> Employer Reputation Influences Ranking Significantly along with Average GRE, Average GMAT and Average GPA scores.
--> Higher the average Tuition fees of a B-school, higher the average Offered income to the students.
--> Universities having students with a larger average work experience have better rankings.
--> States- MA, Illinois, California have 2 top-10 universities each.
--> The top 10 schools have an application fee greater than $200 and yet see a 3 times higher number of applicants.
+1) Class Size is negatively correlated with the Rankings , as the class size reduces, the rank of the B-School improves.
+2) The higher number of networking events a B-School conducts , the higher the rank the school has.
+3) Percentage of Faculty with PhD plays a pivotal role in the ranking of a B- School.
+4) The more the geographical diversity a classroom has, the higher the rank the school has.
+5) Students ratings of program content is very much in line with the school rankings
+6) The availability of Facilities in a B-School is not a significant factor or not correlated with the rank of B- Schools
+7) Employer Reputation Influences Ranking Significantly along with Average GRE, Average GMAT and Average GPA scores.
+8) Higher the average Tuition fees of a B-school, higher the average Offered income to the students.
+9) Universities having students with a larger average work experience have better rankings.
+10) States- MA, Illinois, California have 2 top-10 universities each.
+11) The top 10 schools have an application fee greater than $200 and yet see a 3 times higher number of applicants.
 
 Suggestions to the Robert H.Smith School : 
--> Reduce the class size
--> Conduct more networking events
--> Employ more faculties who hold a PhD degree
--> Increase the geographical diversity score in the classroom
--> Improve their program curriculum
--> Increase the admission scores’ requirements
--> UMD should consider lowering down their tuition fee
--> Should give admits to students who have more number of months’ of work experience
+1) Reduce the class size
+2) Conduct more networking events
+3) Employ more faculties who hold a PhD degree
+4) Increase the geographical diversity score in the classroom
+5) Improve their program curriculum
+6) Increase the admission scores’ requirements
+7) UMD should consider lowering down their tuition fee
+8) Should give admits to students who have more number of months’ of work experience
