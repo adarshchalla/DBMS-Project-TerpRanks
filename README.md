@@ -75,7 +75,7 @@ Major Steps involved :
 1) ER diagram was created after brainstorming several insights and requirements. shorturl.at/bdlG5
 2) Identify different sources to consolidate the data( usnews.com, economist.com, bloomberg.com, topuniversities.com)
 3) Find ways to **Extract** the data in to the csv file , **Transform** the data and **Load**(DDL) the data into MS SQL Server.
-4) Perform DML operations to answer business transactions 
+4) Perform DML operations to answer business transactions and Visualized using Tableau Dashboard
 5) Visualize the insights to give the presentation and conclusion
 6) Provide overall insights and suggestions particularly to Robert H. Smith school of Business - University of Maryland - College Park .
 
