@@ -1,0 +1,51 @@
+locationID,addressCity,addressState,addressZipCode
+1,Stanford,CA ,94305
+2,Philadelphia,PA,19104
+3,Chicago,IL,60637
+4,Evanston,IL,60208
+5,"Boston,",MA,2163
+6,New York,NY,10027
+7,Cambridge,MA,2142
+8,Berkeley,CA,94720
+9,New Haven,CT,6511
+10,Hanover,NH,3755
+11,New York,NY,10012
+12,Durham,NC,27708
+13,Ann Arbor,MI,48109
+14,Charlottesville,VA,22903
+15,Ithaca,NY,14853
+16,Pittsburgh,PA,15213
+17,Los Angeles,CA,90089
+18,Los Angeles,CA,90095
+19,Austin,TX,78705
+20,Chapel Hill,NC,27599
+21,Washington,DC,20057
+22,Seattle,WA,98195
+23,Bloomington,IN,47405
+24,Nashville,TN,37203
+25,Houston,TX,77005
+26,Atlanta,GA,30322
+27,Gainesville,FL,32611
+28,Atlanta,GA,30332
+29,Minneapolis,MN,55455
+30,Tempe,AZ,85287
+31,Provo,UT,84602
+32,Richardson,TX,75080
+33,Columbus,OH,43210
+34,University Park,PA,16802
+35,Rochester,NY,14620
+36,Notre Dame,IN,46556
+37,St. Louis,MO,63130
+38,College Station,TX,77843
+39,East Lansing,MI,48824
+40,Athens,GA,30605
+41,Knoxville,TN,37996
+42,College Park,MD,20742
+43,Madison,WI,53706
+44,Chestnut Hill,MA,02467
+45,West Lafayette,IN,47907
+46,Newark,NJ,08901
+47,Dallas,TX,75275
+48,Tuscaloosa,AL,35487
+49,Salt Lake City,UT,84112
+50,Boston,MA,02215

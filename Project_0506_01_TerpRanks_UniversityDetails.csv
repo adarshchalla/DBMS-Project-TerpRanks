@@ -1,0 +1,51 @@
+universityID ,universityName,locationID
+1,Stanford University,1
+2,University of Pennsylvania (Wharton),2
+3,University of Chicago (Booth),3
+4,Northwestern University (Kellogg),4
+5,Harvard University,5
+6,Massachusetts Institute of Technology (Sloan),6
+7,Columbia University,7
+8,University of California--Berkeley (Haas),8
+9,Yale University,9
+10,Dartmouth College (Tuck),10
+11,New York University (Stern),10
+12,Duke University (Fuqua),12
+13,University of Michigan--Ann Arbor (Ross),13
+14,University of Virginia (Darden),14
+15,Cornell University (Johnson),15
+16,Carnegie Mellon University (Tepper),16
+17,University of Southern California (Marshall),16
+18,University of California--Los Angeles (Anderson),18
+19,University of Texas--Austin (McCombs),19
+20,University of North Carolina--Chapel Hill (Kenan-Flagler),20
+21,Georgetown University (McDonough),21
+22,University of Washington (Foster),22
+23,Indiana University (Kelley),23
+24,Vanderbilt University (Owen),24
+25,Rice University (Jones),25
+26,Emory University (Goizueta),26
+27,University of Florida (Warrington),27
+28,Georgia Institute of Technology (Scheller),28
+29,University of Minnesota--Twin Cities (Carlson),29
+30,Arizona State University (W.P. Carey),30
+31,Brigham Young University (Marriott),31
+32,University of Texas--Dallas,32
+33,Ohio State University (Fisher),33
+34,Pennsylvania State University--University Park (Smeal),34
+35,University of Rochester (Simon),35
+36,University of Notre Dame (Mendoza),36
+37,Washington University in St. Louis (Olin),37
+38,Texas A&M University--College Station (Mays),38
+39,Michigan State University (Broad),39
+40,University of Georgia (Terry),40
+41,University of Tennessee--Knoxville (Haslam),41
+42,University of Maryland - College Park (Smith),42
+43,University of Wisconsin--Madison,43
+44,Boston College (Carroll),44
+45,Purdue University--West Lafayette (Krannert),45
+46,Rutgers University--Newark and New Brunswick,46
+47,Southern Methodist University (Cox),47
+48,University of Alabama (Manderson),48
+49,University of Utah (Eccles),49
+50,Boston University (Questrom),50
